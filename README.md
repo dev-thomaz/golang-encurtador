@@ -30,14 +30,13 @@ O objetivo principal é demonstrar conceitos fundamentais de desenvolvimento de 
 1.  **Clone o repositório:**
 
     ```bash
-    # Substitua [SEU-USUARIO] pelo seu nome de usuário do GitHub
-    git clone [https://github.com/](https://github.com/)[SEU-USUARIO]/go-url-shortener.git
+    git clone [https://github.com/dev-thomaz/golang-encurtador.git](https://github.com/dev-thomaz/golang-encurtador.git)
     ```
 
 2.  **Navegue até a pasta do projeto:**
 
     ```bash
-    cd go-url-shortener
+    cd golang-encurtador
     ```
 
 3.  **Execute a aplicação:**
