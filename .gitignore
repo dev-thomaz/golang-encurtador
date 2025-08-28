@@ -20,3 +20,6 @@ Thumbs.db
 
 # Arquivos de ambiente (para quando adicionarmos variáveis de ambiente)
 .env
+
+# Arquivos de banco de dados
+*.db
