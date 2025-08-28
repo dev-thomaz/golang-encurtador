@@ -1,0 +1,22 @@
+# Binário compilado do Go
+# O nome do binário geralmente é o nome da pasta do projeto.
+# Se você usar `go build`, ele criará um arquivo com este nome.
+go-url-shortener
+
+# Se o nome do seu módulo no go.mod for diferente, 
+# você pode usar o nome dele aqui também.
+encurtador
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração de editores de código
+.vscode/
+.idea/
+
+# Arquivos de log
+*.log
+
+# Arquivos de ambiente (para quando adicionarmos variáveis de ambiente)
+.env
