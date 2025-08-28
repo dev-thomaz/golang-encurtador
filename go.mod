@@ -1,4 +1,4 @@
-module encurtador
+module github.com/dev-thomaz/golang-encurtador
 
 go 1.25.0
 
